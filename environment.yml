@@ -1,0 +1,8 @@
+name: my_environment
+dependencies:
+  - python=3.x
+  - jinja2
+  - micpy
+  - pyiron_base
+  - pyiron_workflow
+  - matplotlib
