@@ -6,3 +6,4 @@ dependencies:
   - pyiron_base
   - pyiron_workflow
   - matplotlib
+  - semantikon
