@@ -7,4 +7,4 @@ dependencies:
   - matplotlib=3.10.8
   - semantikon=0.0.22
   - pip:
-    - micpy==0.3.2b2
+    - micress-micpy==0.3.2b2
