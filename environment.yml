@@ -1,6 +1,6 @@
 name: my_environment
 dependencies:
-  - python=3.x
+  - python=3.12
   - jinja2
   - micpy
   - pyiron_base
