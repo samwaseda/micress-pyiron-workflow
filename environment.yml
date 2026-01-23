@@ -1,4 +1,4 @@
-name: my_environment
+name: micress_pyiron_environment
 dependencies:
   - python=3.12
   - jinja2
