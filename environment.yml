@@ -1,9 +1,10 @@
-name: micress_pyiron_environment
+name: my_environment
 dependencies:
-  - python=3.12
-  - jinja2
-  - micpy
-  - pyiron_base
-  - pyiron_workflow
-  - matplotlib
-  - semantikon
+  - python =3.12
+  - jinja2 =3.1.6
+  - pyiron_base =0.15.12
+  - pyiron_workflow =0.15.4
+  - matplotlib =3.10.8
+  - semantikon =0.0.22
+  - pip:
+    - micpy =0.3.2b2
